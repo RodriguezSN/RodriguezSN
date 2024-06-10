@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sebas.rodriguez.is123@gmail.com)
 
 
-¡Bienvenido a mi página de Github! Recientemente me gradué del bootcamp de Soy Henry como desarrollador Full Stack
+¡Bienvenido a mi página de Github! Recientemente me gradué del bootcamp de Soy Henry como desarrollador Full Stack. Si bien ser desarrollador full stack implica tener mucho conocimiento en diversas tecnologías, lo cual se consigue con los años, tengo el conocimiento necesario para trabajar tanto en front-end como en back-end.
 
 <img src="https://camo.githubusercontent.com/5b23627de88fa1da170ee60d4f9f23e49aae8f5dc6cf5295f8759ee7fb871e7a/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" height="100" title="Follow me" />
 
@@ -14,9 +14,9 @@ const RodriguezSN = {
       pronouns: "he" || "him",
       code: {
             languages: ["Javascript", "HTML", "CSS"],
-            database: [ "MongoDB", "PostgreSQL", "MySQL" ],
-            backEnd: [ "NodeJs", "Express", "Sequelize" ],
             frontEnd: [ "React", "Redux", "Hooks", "CSS modules" ]
+            backEnd: [ "NodeJs", "Express", "Sequelize" ],
+            database: [ "MongoDB", "PostgreSQL", "MySQL" ],
       },
       contact:{
              email: "sebas.rodriguez.is123@gmail.com"
@@ -24,18 +24,11 @@ const RodriguezSN = {
 };
 ```
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+Mis objetivos son seguir profesionalizándome en las tecnologías que ya utilizo para poder sacarles el máximo partido y también aprender nuevas tecnologías. Estoy emocionado por seguir creciendo en este campo y contribuir con proyectos interesantes y desafiantes.
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+¡Gracias por visitar mi perfil!
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="100" />
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
