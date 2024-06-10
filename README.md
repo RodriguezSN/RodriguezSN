@@ -23,12 +23,15 @@ const RodriguezSN = {
       }
 };
 ```
-
+<div>
+      
 Mis objetivos son seguir profesionalizándome en las tecnologías que ya utilizo para poder sacarles el máximo partido y también aprender nuevas tecnologías. Estoy emocionado por seguir creciendo en este campo y contribuir con proyectos interesantes y desafiantes.
 
 ¡Gracias por visitar mi perfil!
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="100" />
+      
+</div>
 #### :computer: Programming languages and tools: 
 <p>
 <!-- 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" /> -->
@@ -46,4 +49,3 @@ Mis objetivos son seguir profesionalizándome en las tecnologías que ya utilizo
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
