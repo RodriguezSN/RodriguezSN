@@ -15,7 +15,7 @@ const RodriguezSN = {
       pronouns: "he" || "him",
       code: {
             languages: ["Javascript", "HTML", "CSS"],
-            frontEnd: [ "React", "Redux", "Hooks", "CSS modules" ]
+            frontEnd: [ "React", "Redux", "Hooks", "CSS modules" ],
             backEnd: [ "NodeJs", "Express", "Sequelize" ],
             database: [ "MongoDB", "PostgreSQL", "MySQL" ],
       },
