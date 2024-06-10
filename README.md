@@ -29,10 +29,12 @@ const RodriguezSN = {
 Mis objetivos son seguir profesionalizándome en las tecnologías que ya utilizo para poder sacarles el máximo partido y también aprender nuevas tecnologías. Estoy emocionado por seguir creciendo en este campo y contribuir con proyectos interesantes y desafiantes.
 
 ¡Gracias por visitar mi perfil!
-
+<div align="center">
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="100" />
+</div>
+
       
-</br>
+
 #### :computer: Programming languages and tools: 
 <p>
 <!-- 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" /> -->
