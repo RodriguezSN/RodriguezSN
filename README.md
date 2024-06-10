@@ -9,6 +9,8 @@
 
 <img src="https://camo.githubusercontent.com/5b23627de88fa1da170ee60d4f9f23e49aae8f5dc6cf5295f8759ee7fb871e7a/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" height="100" title="Follow me" />
 
+
+
 ```js
 const RodriguezSN = {
       pronouns: "he" || "him",
@@ -23,7 +25,7 @@ const RodriguezSN = {
       }
 };
 ```
-<div>
+
       
 Mis objetivos son seguir profesionalizándome en las tecnologías que ya utilizo para poder sacarles el máximo partido y también aprender nuevas tecnologías. Estoy emocionado por seguir creciendo en este campo y contribuir con proyectos interesantes y desafiantes.
 
@@ -31,7 +33,7 @@ Mis objetivos son seguir profesionalizándome en las tecnologías que ya utilizo
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="100" />
       
-</div>
+</br>
 #### :computer: Programming languages and tools: 
 <p>
 <!-- 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" /> -->
