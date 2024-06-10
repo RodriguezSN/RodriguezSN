@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
 
-<img src="https://camo.githubusercontent.com/5b23627de88fa1da170ee60d4f9f23e49aae8f5dc6cf5295f8759ee7fb871e7a/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" height="22" title="Follow me" />
+<img src="https://camo.githubusercontent.com/5b23627de88fa1da170ee60d4f9f23e49aae8f5dc6cf5295f8759ee7fb871e7a/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" height="200" title="Follow me" />
 
 
 #### 🌱 Things I am currently working on: 
