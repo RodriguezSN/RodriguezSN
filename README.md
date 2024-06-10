@@ -18,6 +18,7 @@ const RodriguezSN = {
             frontEnd: [ "React", "Redux", "Hooks", "CSS modules" ],
             backEnd: [ "NodeJs", "Express", "Sequelize" ],
             database: [ "MongoDB", "PostgreSQL", "MySQL" ],
+            tools: [ "Switch Alert" ]
       },
       contact:{
              email: "sebas.rodriguez.is123@gmail.com"
