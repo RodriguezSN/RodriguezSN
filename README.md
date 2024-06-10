@@ -20,6 +20,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
