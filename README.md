@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://camo.githubusercontent.com/5b23627de88fa1da170ee60d4f9f23e49aae8f5dc6cf5295f8759ee7fb871e7a/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" height="100" title="Follow me" />
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ```js
 const RodriguezSN = {
       pronouns: "he" || "him",
